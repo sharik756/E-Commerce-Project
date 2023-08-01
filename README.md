@@ -1,7 +1,5 @@
 # E-commerce Analysis Project
 
-![E-commerce Analysis](./img/ecommerce-analysis.jpg)
-
 ## Project Insights
 
 The E-commerce Analysis project utilizes Python along with popular data science libraries, including Pandas, NumPy, Matplotlib, and Seaborn, to perform exploratory data analysis (EDA) on order transactions from an e-commerce platform.
